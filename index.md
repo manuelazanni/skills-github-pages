@@ -1,4 +1,4 @@
 ---
-title: Curriculum Manuela Zanni
+Curriculum Manuela Zanni
 ---
 
